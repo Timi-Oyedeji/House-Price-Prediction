@@ -18,6 +18,9 @@ Sources: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/da
 
 ## Features
  **Data Preprocessing:** Handles missing values, encodes categorical variables, and prepares the data for machine learning.
+ 
  **Exploratory Data Analysis (EDA):** Visualizations include correlation heatmaps and bar plots to understand the data.
+ 
  **Machine Learning Models:** Implements multiple regression models and compares their performance.
+ 
  **Model Evaluation:** Uses metrics such as Mean Absolute Percentage Error (MAPE), Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE) to evaluate models.
