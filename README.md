@@ -6,9 +6,9 @@ This project provides a comprehensive workflow for predicting house prices using
 **Python Libraries:**
   * `pandas` For data manipulation.
 
-   `matplotlib` & `seaborn`: For visualizing data.
+  * `matplotlib` & `seaborn`: For visualizing data.
     
-   `scikit-learn`: For machine learning algorithms and evaluation.
+  * `scikit-learn`: For machine learning algorithms and evaluation.
 
 **Jupyter Notebook:** For an interactive coding environment.
 
